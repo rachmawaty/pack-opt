@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "PackOpt — Packaging Optimizer",
-  description: "Minimize packaging material while keeping products shockproof and intact.",
+  description: "Optimize packaging and add protection with less material. Right-sized boxes, less waste, full product safety.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -27,7 +27,7 @@ export default function Home() {
         {/* hero */}
         <div className="text-center space-y-2">
           <h1 className="text-3xl font-bold text-gray-900">
-            Minimize packaging, <span className="text-green-600">not protection.</span>
+            Optimize packaging, <span className="text-green-600">add protection with less material.</span>
           </h1>
           <p className="text-gray-500 text-sm max-w-md mx-auto">
             Enter your product dimensions or upload a photo. PackOpt calculates the smallest,

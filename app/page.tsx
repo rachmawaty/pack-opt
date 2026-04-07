@@ -32,8 +32,8 @@ function Hero() {
           ♻️ Sustainable packaging starts here
         </div>
         <h1 className="text-5xl md:text-6xl font-bold text-gray-900 leading-tight">
-          Minimize packaging,{" "}
-          <span className="text-green-600">not protection.</span>
+          Optimize packaging,{" "}
+          <span className="text-green-600">add protection with less material.</span>
         </h1>
         <p className="text-xl text-gray-500 max-w-xl mx-auto leading-relaxed">
           Enter your product dimensions and PackOpt calculates the smallest, most
